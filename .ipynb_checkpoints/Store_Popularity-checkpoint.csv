@@ -1,0 +1,9 @@
+branch_id,place_id,name,address,rating,time_spent,coordinates.lat,coordinates.lng,current_popularity,normal_popularity,popularity_variance,current_datetime_gmt
+MS0325,ChIJZZmpzywFdkgRu2BBVDT3Dmc,Miss Selfridge,"Ground Floor, 36-38 Great Castle St, Marylebone, London W1W 8LG, UK",4.1,,51.51564949999999,-0.1409571,,,,2019-05-05 15:49
+TM7329,ChIJwcDt38wEdkgRVG87ERhnAZU,Topman,"214 Oxford St, London W1C 1DA, UK",4.3,"[25, 60]",51.5155136,-0.1412646,,32.0,,2019-05-05 15:49
+TS0001,ChIJAxqaTdUadkgRFkNFlD7KaJw,Topshop,"214 Oxford St, Marylebone, London W1C 1DA, UK",4.0,"[25, 60]",51.51568529999999,-0.1416379,78.0,47.0,31.0,2019-05-05 15:49
+TS0873,ChIJ41b8t6oEdkgRioXfCB0a1M8,Topshop,"MSU1, 1 New Change, London EC2V 6AH, UK",3.9,"[15, 15]",51.5142926,-0.0963335,,46.0,,2019-05-05 15:49
+OU0207,ChIJ5Sn1b8lwfkgR0pmw-Ll-hg4,OUTFIT,"72-74 Northumberland St, Newcastle upon Tyne NE1 7DF, UK",4.2,"[10, 10]",54.9761351,-1.6122284,,48.0,,2019-05-05 15:49
+TM8104,ChIJWYAZNzC5woARqe_Pu_5D7jw,Topshop Topman,"189 The Grove Dr, Los Angeles, CA 90036, USA",4.0,"[15, 15]",34.0720113,-118.3590992,,68.0,,2019-05-05 15:49
+TS1012,ChIJvUYBYLuue0gRKwHtN1aAiN4,Topshop,"The Trafford Centre, 130-134 Regent Cres, Stretford, Manchester M17 8AF, UK",3.9,"[10, 10]",53.4665712,-2.3495457,105.0,67.0,38.0,2019-05-05 15:49
+OU0201,ChIJP-ovg2FtdkgRL9DPnlO2wOk,OUTFIT,"3, Lombardy Retail Park, Hayes UB3 3EX, UK",3.4,,51.516437,-0.4055499,,,,2019-05-05 15:49
