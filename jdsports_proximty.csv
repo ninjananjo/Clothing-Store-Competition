@@ -1,0 +1,5 @@
+,Store ID,Venue ID,Venue Name,Venue Distance,Venue Address,Venue Lat,Venue Lng,Venue Category
+2,TS0001,4ac518f1f964a520ecad20e3,JD Sports,127,"['197-203 Oxford Street', 'West End', 'Greater London', 'W1D 2LE', 'United Kingdom']",51.5152391,-0.1395672,Sporting Goods Shop
+13,TS0001,5895ef8201f0776e38be9d23,JD Sports,579,"['385-389 Oxford St', 'Mayfair', 'Greater London', 'United Kingdom']",51.514110913775795,-0.14939367771148682,Sporting Goods Shop
+58,TS0873,4ccc1f952dc4370440aac408,JD Sports,2331,"['55 Chapel Street Market', 'Islington', 'Greater London', 'N1 9EW', 'United Kingdom']",51.533512034389986,-0.1075512170791626,Sporting Goods Shop
+95,TS1012,4edd380cbe7be2833b142d45,JD Sports,482,"['48 Regents Crescent, Unit L12', 'Trafford Centre', 'Trafford', 'M17 8AP', 'United Kingdom']",53.466613,-2.348693,Sporting Goods Shop
